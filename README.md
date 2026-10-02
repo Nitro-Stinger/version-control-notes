@@ -7,6 +7,7 @@ branching, and merging.  It also includes a Python flashcard program.
 
 [Command Line](command-line.md)
 [Git Basics](git-basics.md)
+[Branches and Merging](branches.md)
 
 # Flashcards
 
