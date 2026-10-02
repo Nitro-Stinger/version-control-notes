@@ -1,1 +1,15 @@
-# version-control-notes
+# Version Control Notes
+
+This repository contains notes and definitions about version control, Git,
+branching, and merging.  It also includes a Python flashcard program.  
+
+## Study Notes
+
+- [Command Line](command-line.md)
+
+## Flashcards
+
+Run the flashcards with:
+
+```bash
+python flashcards.py
