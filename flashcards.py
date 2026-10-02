@@ -1,8 +1,8 @@
 flashcards = {
     "What command shows your cd?": "pwd",
     "What is Git commit?": "A saved snapshot of changes in a repository.",
-    "What is Git branch?": "A separate line of development in a repository."
-    "What command creates a new Git branch?": "git switch -c branch-name
+    "What is Git branch?": "A separate line of development in a repository.",
+    "What command creates a new Git branch?": "git switch -c branch-name"
 }
 
 print("Git Version Control Flashcards")
