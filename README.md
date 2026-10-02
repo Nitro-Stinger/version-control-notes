@@ -1,4 +1,4 @@
-# Version Control Notes
+# Version Control Study Notes
 
 This repository contains notes and definitions about version control, Git,
 branching, and merging.  It also includes a Python flashcard program.  
