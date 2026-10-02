@@ -10,6 +10,8 @@ branching, and merging.  It also includes a Python flashcard program.
 
 # Flashcards
 
+The flashcards are written in Python and review terms from the notes files.
+
 Run the flashcards with:
 
 ```bash
