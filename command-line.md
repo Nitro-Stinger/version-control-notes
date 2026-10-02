@@ -24,3 +24,5 @@ The command line is a text-based way to interact with a computer.
 
 Git commands can be run through the command line to create commits,
 switch branches, and interact with remote repositories.
+
+[Back to the README](README.md)
