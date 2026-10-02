@@ -27,3 +27,5 @@ Push sends local commits to a remote repository such as GitHub.
 
 Pull retrieves changes from a remote repository and incorporates them
 into the local repository.
+
+[Back to the README](README.md)

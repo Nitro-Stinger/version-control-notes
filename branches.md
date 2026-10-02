@@ -20,3 +20,5 @@ before combining them with the main project.
 A developer can create a branch for a new feature, make commits on
 that branch, and then merge the branch into `main` when the work is
 finished.
+
+[Back to the README](README.md)
